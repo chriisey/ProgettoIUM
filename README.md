@@ -41,6 +41,8 @@ No real backend is required at this stage. User data and cases are simulated loc
 ---
 
 ## 📁 Repository Structure
+
+
 /
 ├─ app.js # Main application logic
 ├─ index.html # Web app entry point
