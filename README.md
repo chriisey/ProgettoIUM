@@ -38,28 +38,6 @@ This project was developed following the course assignments for Human-Computer I
 HumanUnity is a **stand-alone web app**, accessible from any modern browser.  
 No real backend is required at this stage. User data and cases are simulated locally using **browser localStorage**, keeping the experience simple and private.
 
----
-
-## 📁 Repository Structure
-
-
-/
-├─ app.js # Main application logic
-├─ index.html # Web app entry point
-├─ styles.css # UI styling (HumanUnity palette)
-├─ logo.png # HumanUnity logo
-│
-├─ prototype/ # Prototyping materials (Figma, mockups, sketches)
-│
-├─ deliverables/ # Course submissions
-│ ├─ Assignment 1.docx
-│ ├─ Assignment 2.docx
-│ ├─ Assignment 3.docx
-│ └─ Assignment 4.docx (if included)
-│
-└─ Presentazione HumanUnity.pdf
-
----
 
 ## ▶️ How to Run
 1. Clone the repository:
