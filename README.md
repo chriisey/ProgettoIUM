@@ -97,7 +97,3 @@ Course: Human-Computer Interaction – University of Salerno
 
 Educational project for the HCI course.
 Free for academic use with author attribution.
-
-
-If you want, I can tailor the wording to match your professor’s style even more (e.g., more formal/academic English).
-::contentReference[oaicite:0]{index=0}
